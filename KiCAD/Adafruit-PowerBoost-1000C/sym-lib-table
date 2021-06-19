@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Adafruit-PowerBoost-1000C")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Adafruit-PowerBoost-1000C.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit-PowerBoost-1000C-rescue")(type "KiCad")(uri "${KIPRJMOD}/Adafruit-PowerBoost-1000C-rescue.kicad_sym")(options "")(descr ""))
+)

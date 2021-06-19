@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Adafruit-PowerBoost-1000C")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Adafruit-PowerBoost-1000C.pretty")(options "")(descr ""))
+)
